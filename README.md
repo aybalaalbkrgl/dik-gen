@@ -1,2 +1,2 @@
-# dik-gen
+# dik-uçgen-hipotenüs-hesaplama
 dik-üçgen-hipotenüs-hesaplama
